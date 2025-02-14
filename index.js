@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', () => {
   
     // Array con los tiempos en segundos para cada línea de la letra
     const lyricTimes = [
-10,	// “A veces hablamos hasta tan tarde”
+9.5,	// “A veces hablamos hasta tan tarde”
 14.1,	// “Que abro los ojos y el Sol ya sale”
 18,	// “Me dan igual tus ojeras de mañana”
 21.1,	// “Si podemos hablar”
