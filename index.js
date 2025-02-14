@@ -5,16 +5,16 @@ document.addEventListener('DOMContentLoaded', () => {
   
     // Array con los tiempos en segundos para cada línea de la letra
     const lyricTimes = [
-9.5,	// “A veces hablamos hasta tan tarde”
+9.1,	// “A veces hablamos hasta tan tarde”
 14.1,	// “Que abro los ojos y el Sol ya sale”
-18,	// “Me dan igual tus ojeras de mañana”
+17,	// “Me dan igual tus ojeras de mañana”
 21.1,	// “Si podemos hablar”
 23,	// “Si podemos ah-oh”
 26,	// “Y cuando bailo sola en los bares”
-30,	// “Quiero que juntas vayamos a Marte”
+29,	// “Quiero que juntas vayamos a Marte”
 34,	// “Me haré astronauta iré”
 36,	// “A la Luna o lo que sea”
-38,	// “Si así puedo verte bien”
+37,	// “Si así puedo verte bien”
 39,	// “Puedo verte bien”
 41.5,	// “Si así puedo verte bien”
 43.1,	// “Puedo verte bien, bien”
