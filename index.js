@@ -55,19 +55,19 @@ document.addEventListener('DOMContentLoaded', () => {
 122,	// “Puedo verte bien”
 123.5,	// “Puedo verte bien, bien”
 125,	// “Si así puedo verte bien”
-128,	// “Puedo verte bie- bien”
+127,	// “Puedo verte bie- bien”
 129.5,	// “Si así puedo verte bien”
 131.5,	// “Puedo verte bien, bien”
-134,	// “Si así puedo verte bien”
+133.1,	// “Si así puedo verte bien”
 135.5,	// “Puedo verte bien cerca”
 138,	// “Puedo verte bien”
 139.5,	// “Puedo verte bien, bien”
 141,	// “Si así puedo verte bien”
 143.5,	// “Puedo verte bie- bien”
-136,	// “Si así puedo verte bien”
-137.5,	// “Puedo verte bien, bien”
-140,	// “Si así puedo verte bien”
-141.5,	// “Puedo verte bien cerca”
+146,	// “Si así puedo verte bien”
+147.5,	// “Puedo verte bien, bien”
+150,	// “Si así puedo verte bien”
+151.5,	// “Puedo verte bien cerca”
 
     ];
 
